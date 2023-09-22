@@ -1,0 +1,42 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"ESPM"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.2.13"
+			],
+			"dash": [
+				"0.8.18"
+			]
+		}
+	},
+	"header": {
+		"name": "Teste Pack",
+		"description": "",
+		"min_engine_version": [
+			1,
+			17,
+			0
+		],
+		"uuid": "740ce706-97d1-40be-95f6-eef1e44eb11f",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "45879275-d709-495d-80e9-d724dd6b37ae",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
